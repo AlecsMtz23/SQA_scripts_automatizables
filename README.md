@@ -1,0 +1,1 @@
+# SQA_scripts_automatizables
