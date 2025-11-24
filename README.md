@@ -17,6 +17,6 @@ instalar python (3.13.5 en nuestro caso).
 
 3. Ejecutar cualquier script.
 Ejemplo:
-python scripts/script_prueba_de_agregar_al_carrito.py
+scripts/script_prueba_de_agregar_al_carrito.py
 
 
