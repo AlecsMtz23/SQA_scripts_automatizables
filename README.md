@@ -7,8 +7,7 @@ En este caso use la version mas reciente de chrome 142.0.7444.176 y la de chrome
 1. Requisitos previos
 Python 3.10 o superior
 Navegador Google Chrome instalado (ver. 142.0.7444.176).
-ChromeDriver incluido en exechrome/ (para que funcione recomiendo descargar toda la carpeta de SeleniumScripts y ejecutar.
-desde la respectiva carpeta los scripts, en caso de que no funcione probablemente no es la misma version de Chrome a la que nosotros utilizamos).
+ChromeDriver incluido en exechrome/ (para que funcione recomiendo descargar toda la carpeta de SeleniumScripts y ejecutar desde la carptea "scripts" los scripts, en caso de que no funcione probablemente no es la misma version de Chrome a la que nosotros utilizamos).
 
 Ejecución de los Scripts.
 2. Instalar dependencias (Selenium).
